@@ -1,0 +1,10 @@
+Explain [topic]
+Explain [programming concept] in simple terms.
+Explain this code: [paste your code here]
+List some important programming languages for [specific purpose].
+What are the differences between [two programming concepts or languages]?
+What are the common errors in [programming language] and how to fix them?
+Describe the basics of object-oriented programming.
+Please provide an overview of [programming language/technology/framework].
+Can you explain [algorithm/data structure/terminology] in [programming language]?
+I want you to act as a [programming language] expert and explain [programming concept] to me.
