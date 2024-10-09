@@ -1,0 +1,9 @@
+Debug this code: [paste your code here]
+Give me code with errors in [programing language] for practicing debugging.
+What could be causing [specific error message] in this code: [paste your code here]
+How can I troubleshoot [specific issue] in my code: [paste your code here]
+What are some debugging tools or techniques for [programming language]?
+Help me diagnose and fix [specific problem] in my code: [paste your code here]
+Explain how to use breakpoints and debugging statements in [programming language].
+What are some common techniques for troubleshooting [specific issue] in [programming language/technology/framework]?
+I want you to act as a debugger and help me fix [specific error/bug] in my code.
