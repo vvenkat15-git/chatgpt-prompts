@@ -1,0 +1,6 @@
+Predict any potential errors or bugs in my code related to [specific functionality or module]: [paste your code here]
+What could be causing [specific issue] in my code and how to fix it: [paste your code here]
+Explain how to prevent [specific type of error or bug] in my code: [paste your code here]
+Help me anticipate any issues or errors that might arise during [specific phase of software development].
+What are some common errors or bugs in [specific programming language or framework] and how to avoid them?
+I want you to act as a fortune teller and predict potential errors in my [programming language/technology/framework] code for [specific task].
