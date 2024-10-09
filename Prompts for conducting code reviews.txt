@@ -1,0 +1,7 @@
+Review my code and suggest any improvements or optimizations: [paste your code here]
+Point out any potential bugs or errors in my code: [paste your code here]
+Explain how to write more readable and maintainable code.
+Review my code for security vulnerabilities and suggest any fixes: [paste your code here]
+Can you provide feedback on my [programming language/technology/framework] code and suggest some improvements?
+Please review my [programming language/technology/framework] code for potential bugs and optimization opportunities.
+I want you to act as a code reviewer and review my [programming language/technology/framework] code for [specific task].
