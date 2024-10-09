@@ -1,0 +1,9 @@
+Create a code snippet for [specific programming task or function].
+Generate a sample code for [specific library or framework] usage.
+Provide a code snippet for handling [specific error or exception] in [programming language].
+Craft a code snippet for [specific algorithm or data structure].
+Come up with a code snippet for [specific UI component or feature].
+Can you generate a code snippet for [specific algorithm/data structure] in [programming language/technology/framework]?
+Please provide a code snippet for [specific functionality] in [programming language/technology/framework].
+Give me a code snippet that demonstrates how to use [specific library or tool] in [programming language].
+I want you to act as a code generator and provide a [programming language/technology/framework] code snippet for [specific task].
