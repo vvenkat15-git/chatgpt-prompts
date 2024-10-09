@@ -1,0 +1,8 @@
+Explain [specific project management methodology] and its benefits.
+Provide a project management plan for [specific task/project].
+Suggest ways to improve project team communication and collaboration.
+List common project management pitfalls and suggest ways to avoid them.
+Recommend a project management tool for [specific task/project].
+Can you provide some guidance on how to manage [specific task] project in [programming language/technology/framework]?
+I want you to act as a project management assistant and suggest ways to prioritize tasks for [project name].
+I want you to act as a project management expert and recommend tools to manage [team size] members working remotely.
