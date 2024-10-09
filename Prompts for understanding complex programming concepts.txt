@@ -1,0 +1,7 @@
+What is [specific concept or technology] and how does it work?
+Explain the difference between [two related concepts or technologies].
+What are some real-world examples of [specific concept or technology] in use?
+What are the benefits and drawbacks of using [specific programming paradigm or methodology]?
+Describe the architecture and components of [specific software application or system].
+Please explain [specific algorithm/data structure] and its implementation in [programming language/technology/framework].
+I want you to act as a programmer who has more than 20 years of experience. Explain [complex programming concept] in simple terms.
