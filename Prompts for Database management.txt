@@ -1,0 +1,7 @@
+Explain the difference between SQL and NoSQL databases and recommend which one to use for [specific use case].
+Provide a database schema for [specific project].
+Recommend ways to optimize database performance for [specific use case].
+Explain the concept of database normalization and recommend a normalization level for [specific project].
+Suggest a database backup and recovery strategy for [specific project].
+I want you to act as a database administrator and suggest ways to optimize the database for [database name] with [number] tables.
+I want you to act as a database consultant and provide a list of best practices for [database type] security.
