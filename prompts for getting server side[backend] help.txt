@@ -1,0 +1,8 @@
+Explain the difference between server-side rendering and client-side rendering and recommend which one to use for [specific project].
+Suggest a server-side language and framework for [specific project].
+Provide a server deployment plan for [specific project].
+Recommend ways to improve server security for [specific project].
+Explain the concept of load balancing and suggest a load balancing strategy for [specific project].
+I want you to act as a server-side developer and suggest a server architecture for [application name].
+I want you to act as a server-side expert and recommend a programming language for [project type].
+I want you to act as a server-side consultant and provide a list of best practices for server security.
