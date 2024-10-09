@@ -1,0 +1,8 @@
+Suggest [number] design patterns for [specific use case].
+Recommend a design pattern for [specific problem].
+Provide examples of when to use [specific design pattern].
+Explain the differences between [two design patterns] and recommend which one to use for [specific use case].
+List the advantages and disadvantages of [specific design pattern] and recommend whether to use it or not for [specific use case].
+Can you provide an overview of the most commonly used design patterns in [programming language/technology/framework] and suggest a suitable one for [specific task]?
+Please suggest a design pattern for optimizing [specific functionality] in my [programming language/technology/framework] code.
+I want you to act as a design pattern expert and recommend a suitable pattern for [specific task] in [programming language/technology/framework].
